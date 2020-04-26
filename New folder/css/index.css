@@ -1,0 +1,96 @@
+ body {
+     font-family: 'segoe ui light';
+ }
+ /*nav*/
+ 
+ nav {
+     background-color: #fff !important;
+ }
+ 
+ nav a {
+     color: black !important;
+ }
+ 
+ .navbar .nav-link:hover {
+     color: red !important;
+ }
+ /*home */
+ 
+ .home {
+     background-image: url(../images/4.jpg);
+     height: 600px;
+     background-size: 100% 100%;
+     text-align: center;
+ }
+ 
+ .home h2 {
+     color: #fff;
+     padding-top: 150px;
+     font-size: 50px;
+     font-weight: 900;
+ }
+ 
+ .home p {
+     color: #fff;
+     padding-bottom: 40px;
+ }
+ 
+ .home .read {
+     color: #fff;
+ }
+/*about us*/
+ 
+.left{
+    margin: 100px;
+ }
+.first {
+     width: 300px;
+    height: 220;
+      transform: rotate(340deg);
+border: solid 5px #fff;
+    position: relative;
+}
+.second{
+       width: 300px;
+    height: 220;
+       transform: rotate(340deg);
+border: solid 5px #fff;
+    position: absolute;
+    top: 250;
+    
+}
+.right{
+    margin: 100px;
+     
+ }
+.right img{
+    position: relative;
+}
+.right p{
+    color: gray;
+}
+.right h1{
+    font-weight: 900;
+}
+/*about*/
+.serve{
+    background-color: cadetblue;
+    padding: 100px;
+    color: #fff;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
